@@ -1,0 +1,10 @@
+# Product Processor Dependencies
+
+# HTTP requests for downloading images and scraping
+requests>=2.25.1
+
+# HTML parsing for web scraping
+beautifulsoup4>=4.9.3
+
+# Type hints support for Python 3.7+
+typing-extensions>=4.0.0
